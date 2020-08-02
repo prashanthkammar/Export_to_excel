@@ -1,0 +1,8 @@
+{
+    "User" : ["Email", "Username"],
+    "Post" : ["Title", "Date Posted", "Content", "Author"],
+    "Post_Excel" : "Post.xlsx",
+    "User_Excel" : "User.xlsx",
+    "Post_Html" : "Post.html",
+    "User_Html" : "User.html"
+}
